@@ -1,0 +1,6 @@
+name = input("Input a name: ")
+adjective = input("Input a adjective: ")
+noun = input("Input a noun: ")
+verb = input("Input a verb: ")
+adverb = input("Input a adverb: ")
+print(f"{name} is {adjective} while {noun} is {verb} {adverb}")
